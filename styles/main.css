@@ -85,4 +85,10 @@ i {
 #cpc {
   background-image: url(../images/clamrock.jpg);
   height: 22em;
+}
+
+.card-rev {
+  height: 50px;
+  margin-top: 20px;
+  justify-content: center;
 }/*# sourceMappingURL=main.css.map */
